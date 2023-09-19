@@ -9,4 +9,6 @@
 
 # Prototype Pro01 9/18: 
 - Build #1: Implemented player movement with a first person camera perspective
-- Build #2: 
+- Build #2:
+- WebBuild Link: https://sydneys00.github.io/SS_SIM351_WhoseSceneIsThis/
+- Current Issues: UI for interaction will not disappear, only activates when I go to the player's desk even though other objects have it. 
