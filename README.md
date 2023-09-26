@@ -12,3 +12,14 @@
 - Build #2:
 - WebBuild Link: https://sydneys00.github.io/SS_SIM351_WhoseSceneIsThis/
 - Current Issues: UI for interaction will not disappear, only activates when I go to the player's desk even though other objects have it. 
+
+# Prototype Dev02
+- Fix interactive system UI
+- Create deck of cards and correlating behavior
+- Implementing picking up/placing down behaviors for player and correlating spaces
+
+# Prototype Pro02
+- Implemented a new interactive system, including placing up and putting down 
+- Created a deck of playable cards
+  
+  
