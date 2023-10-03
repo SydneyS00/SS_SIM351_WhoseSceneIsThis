@@ -22,4 +22,11 @@
 - Implemented a new interactive system, including placing up and putting down 
 - Created a deck of playable cards
   
-  
+# Prototype Dev03
+- Restart and instead work in a 2D scene instead of 3D
+- Have cards that I am able to draw/discard
+
+# Prototype Pro03
+- Started from scratch! 2D scene instead of interactable 3D scene
+- Have a deck of cards with a draw button and you click to discard
+- Counter for deck pile and discard pile 
